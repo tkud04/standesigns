@@ -26,7 +26,7 @@ class MainController extends Controller {
 	 */
 	public function index()
     {
-    	return view('standesigns');
+    	return view('index');
     }
     
     
